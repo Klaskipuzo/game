@@ -182,6 +182,7 @@ namespace MyProject2
             FightOrc();
 
             Console.WriteLine();
+
         }
 
 
@@ -194,6 +195,7 @@ namespace MyProject2
             OrcWarrior(h);
             Console.WriteLine($"Монстр бьет вас уроном в размере {hits} у вас остается {h - hits}");
             Console.WriteLine("На данный момент все");
+
         }
 
 
